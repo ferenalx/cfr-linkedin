@@ -1,2 +1,2 @@
 # cfr-linkedin
-Personal LinkedIn
+Personal LinkedIn using Github Pages
