@@ -1,23 +1,21 @@
 {
   "basics": {
-    "name": "Chester Ferenal Rondina",
-    "title": "IT Consultant",
-    "email": "rondina.ch@gmail.com",
-    "phone": "+639629525735",
-    "location": {
-      "city": "Bocaue",
-      "province": "Bulacan",
-      "country": "Philippines"
-    },
+    "name": "Juan Dela Cruz",
+    "title": "IT Graduate",
+    "email": "juan@example.com",
+    "phone": "+63 900 000 0000",
+    "location": "Bulacan, Philippines",
     "links": {
-      "github": "https://github.com/ferenalx",
-      "website": "https://ferenalx.github.io/cfr-linkedin/",
-      "facebook": "https://www.facebook.com/ferenalz"
+      "linkedin": "https://linkedin.com/in/juan",
+      "github": "https://github.com/juan"
     }
   },
-  "summary": "Recent IT graduate with strong foundations in web development, programming, and database management. Experienced in internships focusing on application testing and automation.",
+  "summary": "Recent Information Technology graduate seeking an entry-level IT role at Accenture Philippines. Skilled in web development, programming, and database management. Experienced in internship projects with a focus on software testing, automation, and collaboration with agile teams.",
   "skills": [
-    "HTML", "CSS", "JavaScript", "Python", "SQL", "Git"
+    "HTML", "CSS", "JavaScript", 
+    "Python", "Java", "SQL", 
+    "Git", "Software Testing", 
+    "Automation Scripting", "Agile Collaboration"
   ],
   "education": [
     {
@@ -33,17 +31,22 @@
       "startDate": "2024-06",
       "endDate": "2024-08",
       "responsibilities": [
-        "Tested web applications and reported bugs",
-        "Developed basic automation scripts to support QA team",
-        "Collaborated with developers to resolve issues"
+        "Conducted software testing and reported system bugs",
+        "Developed and maintained basic automation scripts",
+        "Assisted QA team with documentation and defect tracking",
+        "Collaborated with developers and testers in agile sprints"
       ]
     }
   ],
   "projects": [
     {
       "name": "Personal Portfolio Website",
-      "description": "Built a responsive GitHub Pages portfolio to showcase projects and skills.",
+      "description": "Built a responsive GitHub Pages portfolio to showcase projects, education, and technical skills.",
       "url": "https://juan.github.io/"
+    },
+    {
+      "name": "Student Information System (Capstone Project)",
+      "description": "Led a team to develop a web-based system for managing student records using Java, SQL, and HTML/CSS."
     }
   ]
 }
