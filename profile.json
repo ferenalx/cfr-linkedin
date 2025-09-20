@@ -1,10 +1,14 @@
 {
   "basics": {
     "name": "Juan Dela Cruz",
-    "title": "IT Graduate",
-    "email": "juan@example.com",
-    "phone": "+63 900 000 0000",
-    "location": "Bulacan, Philippines",
+    "title": "IT Intern",
+    "email": "rondina.ch@gmail.com",
+    "phone": "+639629525735",
+    "location": {
+      "city": "Bocaue",
+      "province": "Bulacan",
+      "country": "Philippines"
+    },
     "links": {
       "linkedin": "https://linkedin.com/in/juan",
       "github": "https://github.com/juan"
