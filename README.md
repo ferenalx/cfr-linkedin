@@ -1,2 +1,2 @@
 # cfr-linkedin
-LinkedIn but Better
+Personal LinkedIn
