@@ -1,0 +1,61 @@
+{
+  "basics": {
+    "name": "Chester Ferenal Rondina",
+    "email": "rondinach@gmail.com",
+    "phone": "+639629529735",
+    "birthdate": {
+      "year": "2002",
+      "month": "02",
+      "day": "06"
+    },
+    "location": {
+      "city": "Bocaue",
+      "province": "Bulacan",
+      "country": "Philippines"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/juan"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/juan"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": ["HTML", "CSS", "JavaScript", "React"]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["Python", "Java", "SQL"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bulacan State University",
+      "area": "Information Technology",
+      "studyType": "Bachelor's",
+      "endDate": "2025"
+    }
+  ],
+  "work": [
+    {
+      "company": "Accenture (Internship)",
+      "position": "IT Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "Worked on web app testing, bug reporting, and basic automation scripts."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "description": "GitHub Pages site to showcase my work and skills.",
+      "url": "https://juan.github.io/"
+    }
+  ]
+}
