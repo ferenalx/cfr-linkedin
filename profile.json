@@ -39,9 +39,9 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio Website",
-      "description": "Built a responsive GitHub Pages portfolio to showcase projects, education, and technical skills.",
-      "url": "https://juan.github.io/"
+      "name": "Better LinkedIn",
+      "description": "Simple LinkedIn Mockup",
+      "url": "https://ferenalx.github.io/cfr-linkedin/"
     },
     {
       "name": "Student Information System (Capstone Project)",
